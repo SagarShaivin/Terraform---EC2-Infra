@@ -1,4 +1,4 @@
-# Terraform---EC2-Infra
+# Terraform---EC2-Automation
 Created an infrastructure of EC2 service using Terraform.
 
 # Make sure to edit the path of Modules which are called in parent (main.tf) file as per your system file structure
