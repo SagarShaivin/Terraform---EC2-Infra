@@ -1,7 +1,7 @@
 # Terraform---EC2-Infra
 Created an infrastructure of EC2 service using Terraform.
 
-- Make sure to edit the path of Modules which are called in parent (main.tf) file as per your system file structure
+# Make sure to edit the path of Modules which are called in parent (main.tf) file as per your system file structure
 
 - In this repository you will find the entire structure of EC2 instance (ec2, security group, vpc), each of them defined in their own module.
 - In each module, every service and their parameters and requirements are defined dynamically, hence you don't need to change any configurations in these modules, only when you want to define new parameters.
